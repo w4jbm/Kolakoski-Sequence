@@ -28,3 +28,8 @@ Later, as a way to work on improving my minimal and somewhat rusty skills with C
 
 https://w4jbm.wordpress.com/2019/02/25/the-kolakoski-sequence-revisited/
 
+I have also written code to generate the sequence in Python and Fortran 95:
+
+https://w4jbm.wordpress.com/2019/03/04/kolakoski-yet-again/
+
+
