@@ -23,7 +23,7 @@ n1 = 1
 n2 = 2
 p1 = 3
 
-## my sense of symetry likes that last set of constants...
+## my sense of symmetry likes that last set of constants...
 
 while len(i) < 55:
     for x in range(0, i[p1]):
