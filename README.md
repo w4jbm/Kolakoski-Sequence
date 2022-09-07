@@ -32,4 +32,4 @@ I have also written code to generate the sequence in Python and Fortran 95:
 
 https://w4jbm.wordpress.com/2019/03/04/kolakoski-yet-again/
 
-
+The most recent addition was a version in Julia which turned out to be interesting. It was the first time I had ever looked at Julia and it actually turned out to feel fairly elegant. I suspect the use of global variables like I used is considered a bit of a kludge, but the ability to push values onto the end of an array was very useful.
